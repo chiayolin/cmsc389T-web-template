@@ -1,9 +1,9 @@
-name: cleanup workflow
+name: delete workflow
 on:
   workflow_dispatch:
 jobs:
   job_one:
-    name: Clean
+    name: Delete
     runs-on: ubuntu-latest
     steps:
       - name: testing
