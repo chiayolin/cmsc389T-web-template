@@ -1,4 +1,4 @@
-name: deployment workflow
+name: cleanup workflow
 on:
   workflow_dispatch:
 jobs:
