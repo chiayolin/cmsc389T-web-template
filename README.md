@@ -2,11 +2,11 @@
 
 Website Template for Project 3
 
+Github Pages: [Link](https://chiayolin.github.io/cmsc389T-web-template/)
+TerpConnect: [Link](https://https://terpconnect.umd.edu/~directory_id/cmsc389T-web-template/)
 
 Changes
- * updated name, profile picture, introduction, relavent info, interests,
-   and social links
- * changed header from using an image to solid color.
- * changed the header text color.
- * changed the color of footer.
+ * added required content to `index.html`.
+ * changed header style (solid background color and text color).
+ * changed footer style (background color)
 
