@@ -17,5 +17,5 @@ jobs:
           script: |
             cd cmsc389T-web-template
             git pull
-            cp -R * /pub/cyl/
+            cp -R css js assets index.html /pub/cyl/
 
