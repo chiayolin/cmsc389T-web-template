@@ -16,7 +16,6 @@ jobs:
           script: |
             unalias rm
             rm -rf cmsc389T-web-template
-            rm -rf /pub/cyl/*#cmsc389T-web-template
-            ls -l
+            rm -rf /pub/cyl/cmsc389T-web-template
             ls -l /pub/cyl
 
