@@ -18,5 +18,7 @@ jobs:
             cd cmsc389T-web-template
             git pull
             mkdir /pub/cyl/cmsc389T-web-template
+            unalias cp
             cp -R css js assets index.html /pub/cyl/cmsc389T-web-template
+            ls -l /pub/cyl/cmsc389T-web-template
 
