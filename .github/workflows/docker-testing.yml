@@ -1,7 +1,7 @@
 name: Docker-Testing
-​
+
 on: [workflow_dispatch]
-​
+
 jobs:
   build-website:
     runs-on: ubuntu-latest
@@ -23,4 +23,3 @@ jobs:
           cat docker-compose.yml
           docker-compose up -d
           wget -O test.html localhost:80
-
